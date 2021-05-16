@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_agregar"
+        android:icon="@drawable/icono_agregar"
+        android:title="Agregar"
+        app:showAsAction="always"
+        />
+    <!-- app:showAsAction="always" me permite ver el menu en la parte superior si lo quito me los muestra en un menu que hay que seleccionar-->
+    <item
+        android:id="@+id/menu_guardar"
+        android:icon="@drawable/icono_guardar"
+        android:title="Agregar"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/menu_eliminar"
+        android:icon="@drawable/icono_eliminar"
+        android:title="Agregar"
+        app:showAsAction="always"
+        />
+</menu>

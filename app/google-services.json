@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683908196336",
+    "project_id": "crud-moviles-5400e",
+    "storage_bucket": "crud-moviles-5400e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683908196336:android:0d6a58fbfe447dfd075f35",
+        "android_client_info": {
+          "package_name": "com.example.crud_moviles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683908196336-ubs4tlea9m9n70cpodm6lkgom5vicojo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2U_t6-gEw2XihZnF8MU_XQ5Ove35S2PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683908196336-ubs4tlea9m9n70cpodm6lkgom5vicojo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
